@@ -7,7 +7,8 @@ The concept of the app is to create a smart bike lock with gps and alarm to prot
 
 This prototype is based on react-native using expo and npm to build and run the app.
 
-_This app was built by Alexander Bodin for use in the groupwork in the course: TDA420 Human - computer interaction._
+_This app was built by Alexander Bodin for use in the groupwork in the course:_
+_TDA420 Human - computer interaction._
 
 ## Screenshots of Landing and Main screen:
 
